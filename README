@@ -1,0 +1,28 @@
+
+craigmailer <http://github.com/lrvick/craigmailer>
+
+WHAT IS CRAIGMAILER?
+
+	A script to watch topics on craigslist for you, then forwards you all
+	the posts as emails FROM the posters email addresses. All you need to do
+	is just hit 'Reply' to anything that interests you, making responding to
+	craigslist ads far less painful. No more copy/pasting.
+
+CURRENT FEATURES:
+
+ * Can watch any number of topics
+
+ * Spoofs the posters email address so replies go directly to the poster
+
+ * Easy to put prefix-topics to make it simple to filter ads to a separate
+	 folder in your email client.
+
+ * Trivial to hack for any good/evil you come up with.
+
+NOTES
+
+	If you do use this for evil, I am not responsible. If the outcome
+	is particularly funny, by all means tell me about it.
+
+	I pretty much just made this to stalk job listings on craigslist
+	so I could snipe them with a real reply before anyone else. ;-)
